@@ -18,7 +18,7 @@ I'm a Full Stack Developer skilled in Python (Programming Language), C++, C, HTM
 <br/>  
 
 
-## Rapidfire  
+## Short Intro about me
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Backend Development  
