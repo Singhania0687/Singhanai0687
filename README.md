@@ -31,7 +31,7 @@ I'm a Full Stack Developer skilled in Python (Programming Language), C++, C, HTM
             Ask me any doubts in competitive coding and MERN .  
   
 
-- ⚡ Fun fact: Though I am very lazy person but the final product which will you receive from me will be the best of it's kind.  
+- ⚡ Fun fact: Though I am very lazy person but the final product which  you will receive from me will be the best of it's kind.  
 
 
 </td><td valign="top" width="50%">
